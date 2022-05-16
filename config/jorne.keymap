@@ -25,7 +25,7 @@
 //              | LWR/TAB | LALT | LWIN/SPACE |   | RWIN/RET | BSPC | RSE/DEL |
                         bindings = <
    &kp ESC &kp GRAVE &kp Q &kp W &kp E &kp R &kp T &kp Y         &kp U  &kp I     &kp O   &kp P    &kp LBKT &kp RBKT
-           &mt LCTRL CAPS &kp A &kp S &kp D &kp F &kp G &kp H         &kp J  &kp K     &kp L   &kp SEMI &mt RCTRL SQT
+           &kp LCTRL &kp A &kp S &kp D &kp F &kp G &kp H         &kp J  &kp K     &kp L   &kp SEMI &mt RCTRL SQT
            &kp LSHIFT &kp Z &kp X &kp C &kp V &kp B &kp N         &kp M  &kp COMMA &kp DOT &kp FSLH &mt RSHIFT BSLH
                         &lt LWR TAB &kp LALT &mt LWIN SPACE &mt RWIN RET &kp BSPC &lt RSE DEL
                         >;
